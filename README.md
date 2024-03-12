@@ -1,6 +1,10 @@
 # flutter_primeiro
 
+<<<<<<< HEAD
 Estudo Git+Flutter.
+=======
+Estudo Git_Flutter.
+>>>>>>> aeae49253106da639b19816b090f10991308ce01
 
 ## Comandos Básicos do Git
 
