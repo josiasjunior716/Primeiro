@@ -1,6 +1,6 @@
 # flutter_primeiro
 
-A new Flutter project.
+Estudo Git_Flutter.
 
 ## Getting Started
 
